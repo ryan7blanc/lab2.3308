@@ -1,6 +1,6 @@
 # lab2.3308
 Lab 2 for CSCI 3308
-Recitation 011. Team #6
+011-Team-6
 
 Group Members:
 Louis Blanc @ryan7blanc
