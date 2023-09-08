@@ -6,3 +6,4 @@ Group Members:
 Louis Blanc @ryan7blanc
 Micheal Ari Gladstone @migl3548
 Ben Zabihi @benzabihi
+Ian Scheuerman @Ischeurman
